@@ -13,6 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.flynnied.com" # the base hostname & protocol for your site
 twitter_username: none
 github_username:  flynnied
+myfavoritetvshow: "Psych"
+myfavoritevideogame: "CS:GO"
+
 
 # Build settings
 markdown: kramdown

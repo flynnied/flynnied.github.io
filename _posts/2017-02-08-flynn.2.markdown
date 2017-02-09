@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Macgyver"
+date:   2017-02-08 00:21:41 -0500
+categories: jekyll update
+---
+Macgyver is a cool show(alot like Burn Notice) and it is about a man named Macgyver who helps people without using guns.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UKTNWI0eYJ4" frameborder="0" allowfullscreen></iframe>
+<br />
+
+The reason I got into watching Macgyver is because my chum Nikolai showed it to me and I have been watching it ever since.
+
+<span class="Flynnstyle"> Thanks Nicky </span>
+
+If you are interested in watching it, and you have a netflix account... I have already saved you the trouble of searching for the show on netflix. [Click Here] [Here]
+
+[Here]: https://www.netflix.com/login?nextpage=http%3A%2F%2Fwww.netflix.com%2FMovieDisplay%3Fmovieid%3D70019343
+

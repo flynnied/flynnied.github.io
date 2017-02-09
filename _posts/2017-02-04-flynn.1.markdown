@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A Little Flynntroduction"
+date:   2017-02-04 00:21:41 -0500
+categories: jekyll update
+---
+Yo folks.  <span class="Flynnstyle"> Flynn </span> here.  Out here in the www with my own site, making sparks.  Get a load of this youtube time-capsule of me in my first blockbuster horror film (168 views!!!):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pffBIxzysys" frameborder="0" allowfullscreen></iframe>
+<br />
+I've gotta keep it short here, because I'm trying to learn some Jekyll.  But, meanwhile, if you're bored...
+
+Check out the [Austin Evans][austin-evans] to find out about the latest Tech. Wanna learn how to build some cool-ass PC setups at [Linus Tech Tips][linus-techtips]. For the most thorough laptop reviews checkout [Dave 2D][dave-2d].
+
+[austin-evans]: https://www.youtube.com/user/duncan33303
+[linus-techtips]:  https://www.youtube.com/linustechtips
+[dave-2d]: https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw
