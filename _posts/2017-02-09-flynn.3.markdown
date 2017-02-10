@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "CS:GO"
+date:   2017-02-09 00:21:41 -0500
+categories: jekyll update
+---
+CS:GO is a super terrific game made by Valve(the creators of Steam).
+
+CS:GO is a First-Person-Shooter/Strategy game created in 2012. However, I bought it in 2015. When I first bought the game I was not aware that you cannot aim down the sight of your gun unless it has a scope. 
+I thought that was super stupid because I was coming from COD. If I knew this before I bought the game, I probably would not have bought it. But, I'm glad I bought it. If I never actually played the game I would have missed out on so much.
+
+<img class="borderRound" src= "http://on-winning.com/wp-content/uploads/2016/01/ljJzxrP.jpg">
+
+<span class="flynnStyle"> ELEAGUE: </span>
+
+CS:GO has many professional teams. Each year there are a few tournaments so the best teams have a chance to win 1st place. This year there has only been one tournament. It was in Atlanta. However, there will be more.
+
+If you are interested in buying this game at just 14.99 please [Click Here] [Here]. I highly recomend this game.
+
+[Here]: http://store.steampowered.com/app/730/

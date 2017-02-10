@@ -28,12 +28,18 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-.Flynnstyle {
+.flynnStyle {
     
     font-size: 18px;
     font-family: verdana;
     color: rgb(256,150,0);
     font-weight: bold;
+    
+}
+
+.borderRound {
+    
+    border-radius: 10px;
     
 }
 
