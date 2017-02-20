@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Burn Notice"
+date:   2017-02-09 00:21:41 -0500
+categories: jekyll update
+---
+The Oculus Rift is my personal favorite VR headseat I have used. The experience is like no other, it completely takes you into another world.
+
+<img class="borderRound" src= "https://images-na.ssl-images-amazon.com/images/I/61ahfXnBa0L._SX522_.jpg">
+
+
+If you are interested in buying one of these... Please [click here] [Here]
+
+[Here]: https://www.amazon.com/Oculus-Rift-Virtual-Reality-Headset-Pc/dp/B00VF0IXEY
