@@ -26,6 +26,12 @@ console.log('hello')
 
 function getRandomNumber() {
     
-   document.write(getRandomInt(1, 23)); 
+   //document.write(getRandomInt(1, 23)); 
+    $(document).ready(function () {
+        
+        ("#rand-num").text(getRandomInt(1, 23));
+        
+    });
+    
     
 }
