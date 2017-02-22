@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "My Laptop"
+date:   2017-02-09 00:21:41 -0500
+categories: jekyll update
+---
+My laptop is an Alienware 13 r3. It is perfect for what I use it for. 
+I game, I surf the web, and I code on it.
+Although it is thinner than the version from last year, it is still just as heavy. It is still pretty manageable but if you are thinking of getting one of their bigger laptops,
+I would only get it if you dont plan to travel wiht it often.
+
+<img class="borderRound" src= "http://i.dell.com/sites/imagecontent/products/PublishingImages/alienware-13-laptop/CS1703G0017_aw_laptop_alienware13_gaming_pdp_polaris_01.jpg">
+
+
+If you are interested in buying this outstanding laptop, Please [click here] [Here]
+
+One other thing, since I got my laptop, Alienware came out with a version with a 1050/ti, it is cheaper but I highly recomend getting the 1060. It performs way better.
+
+[Here]: http://www.dell.com/en-us/shop/productdetails/alienware-13-laptop
