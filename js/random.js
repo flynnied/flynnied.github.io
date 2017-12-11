@@ -27,16 +27,27 @@ console.log('hello')
 function getRandomNumber() {
     
    //document.write(getRandomInt(1, 23)); 
-$.noConflict();
     jQuery(document).ready(function() {
+        jQuery("button").mouseenter(function(){
+            jQuery(".button1").addClass("button2");
+           
+            
+        });
+        jQuery("button").mousedown(function(){
+             jQuery(".button1").addClass("button3");
+           
+            
+        });
         jQuery("button").click(function() {
             jQuery("#rand-num").text(getRandomInt(1, 23));
+            jQuery("#rand-num").addClass("number");
+            jQuery(".button1").blur();
         
     });
     
 });
     
-    
+
     
     
 }

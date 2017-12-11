@@ -7,6 +7,6 @@ permalink: /randomNumber/
 
 <script src="../js/random.js"></script>
 
-<button onclick="getRandomNumber()">Generate Number</button>
+<button class="button1" onclick="getRandomNumber()">Generate Number</button>
 
-<div id="rand-num">Number will show here:</div>
+<div id="rand-num">Number will show here</div>
